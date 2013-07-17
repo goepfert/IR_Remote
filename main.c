@@ -14,8 +14,6 @@
 *
 *****************************************************************************/
 
-#include "main_config.h"
-
 #include "irmp.h"
 #include "pwm.h"
 #include "colors.h"
